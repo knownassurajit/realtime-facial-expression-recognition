@@ -1,6 +1,9 @@
 # Realtime-Facial-Expression-Recognition  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/spleeter) 
 
 >  :warning:   Please go through the ```requirements.txt``` file before running the models and install all packages.
+>  ```powershell
+>  pip install -r requirements.txt --upgrade
+>  ```
 
 I have selected this project as one of my final year project. This is a realtime facial expression recognition model which uses FER 2013 dataset. I have used Keras, OpenCV and Flask. 
 
